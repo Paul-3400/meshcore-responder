@@ -128,8 +128,8 @@ Pfad-Logik:
 
 ## Antwort-Format (max 110 Zeichen)
 
-Beispiel direkt: Responder|SNR:12.25 RSSI:-42|Direkt
-Beispiel Repeater: Responder|SNR:8.5 RSSI:-87|231e>4f0a
+- Beispiel direkt: Responder|SNR:12.25 RSSI:-42|Direkt
+- Beispiel Repeater: Responder|SNR:8.5 RSSI:-87|231e>4f0a
 
 ---
 
