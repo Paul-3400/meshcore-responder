@@ -1,4 +1,4 @@
-# 🔄 1.HANDOVER – MeshCore Responder
+# 🔄 1. HANDOVER – MeshCore Responder
 
 Stand: 13.05.2026
 
@@ -79,7 +79,7 @@ hops, path, response_sent, response_status
 
 # 🔄 2. HANDOVER – MeshCore Responder
 
-Aktualisierung: 14.05.2026
+Stand: 14.05.2026
 
 ---
 
